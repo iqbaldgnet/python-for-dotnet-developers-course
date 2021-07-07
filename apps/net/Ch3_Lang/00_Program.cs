@@ -4,11 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Switch.Run();
+            //Switch.Run();
             //Using.Run();
             //Errors.Run();
             //Typing.Run();
-            //Closuers.Run();
+            Closuers.Run();
             //Lambdas.Run();
             //Ternary.Run();
             //Generators.Run();
